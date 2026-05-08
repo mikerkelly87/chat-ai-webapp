@@ -54,7 +54,7 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 🐳 Running with Podman
+## 📦 Running with Podman
 
 ### 1 — Build the image
 
