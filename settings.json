@@ -1,0 +1,5 @@
+{
+  "llm_url": "http://192.168.5.13:1234",
+  "max_tokens": 8192,
+  "provider": "lmstudio"
+}
