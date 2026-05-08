@@ -1,11 +1,16 @@
 # 🤖 Chat AI Webapp
 
+
 > A sleek, self-hosted web chat interface for local LLMs — built for [LM Studio](https://lmstudio.ai) and [Ollama](https://ollama.com), served by a lightweight Python proxy.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-Ready-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Base_Image-Fedora_Latest-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
+
+---
+
+![Demo](demo.gif)
 
 ---
 
